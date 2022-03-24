@@ -39,7 +39,7 @@ body{
     background: inherit;
     overflow: hidden;
 }
-.frosted::before{
+.frosted:before{
     content: "";
     position: absolute;
     background: inherit;
