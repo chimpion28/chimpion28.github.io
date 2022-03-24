@@ -2,12 +2,8 @@
     margin: 0;
     padding: 0;
 }
-body{
+.background{
     background-color: black;
-}
-h1, h2{
-    text-align: center;
-    font-weight: 400;
 }
 .neonText{
     font-size: 18px;
