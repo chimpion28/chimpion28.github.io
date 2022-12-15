@@ -11,7 +11,7 @@ body {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(0%, -50%);
+    transform: translate(-50%, 150%);
     user-select: none;
 }
 #image-track>.image {
@@ -23,5 +23,18 @@ body {
 }
 
 #top-bar{
+    background-color: black;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    text-align: center;
+    user-select: none;
+}
+
+#top-bar h1{
+    background-color: black;
     color: white;
+    text-align: center;
+    display: inline-block;
+    margin-left: 10vmin;
 }
